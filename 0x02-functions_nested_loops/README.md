@@ -1,4 +1,4 @@
-Write a function that prints the last digit of a number.
+Write a function that prints every minute of the day of Jack Bauer, starting from 00:00 to 23:59.
 
-Prototype: int print_last_digit(int);
-Returns the value of the last digit
+Prototype: void jack_bauer(void);
+You can listen to this soundtrack while coding :)
