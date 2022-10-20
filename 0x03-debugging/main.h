@@ -4,9 +4,9 @@
 #include <stdio.h>
 
 void positive_or_negative(int i);
-void lagest_number(int a, int b, int c);
+int lagest_number(int a, int b, int c);
 void print_remaining_days(int month, int day, int year);
-void convert_day(int month);
+int convert_day(int month);
 void print_times_table(int n);
 
 #endif
